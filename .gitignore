@@ -63,3 +63,5 @@ wp-content/plugins/index.php
 # ignore specific themes
 wp-content/themes/twenty*/
 
+wp-content/plugins/wordpress-importer/parsers.php
+wp-content/plugins/wordpress-importer/

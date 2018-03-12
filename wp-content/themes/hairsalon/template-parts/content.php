@@ -51,6 +51,5 @@ $is_sigle = is_single();
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<?php woafun_entry_footer(); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
